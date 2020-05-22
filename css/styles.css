@@ -1,0 +1,81 @@
+body {
+  text-align: center;
+  margin: 0px;
+}
+
+h1 {
+  width: 250px;
+  height: 300px;
+  font-family: 'Lobster', cursive;
+  position: absolute;
+  left: 550px;
+  font-size: 45px;
+  color: #66BFBF;
+}
+
+#programmer {
+    margin-bottom: 20px;
+    font-family: "Courier New", Courier, monospace;
+    position: absolute;
+    top: 80px;
+    left: 560px;
+    font-size: 30px;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+.top-container {
+  padding: 20px;
+  background-color: #E9F5F9;
+  margin-bottom: none;
+}
+
+#me {
+  border-radius: 600px;
+  height: 250px;
+  width: 250px;
+}
+
+p, h3, .footer-link {
+  font-family: 'Handlee', cursive;
+  font-size: 40px;
+}
+
+.footer-link, h2, .btn  {
+  color: #11999E;
+  font-family: 'Handlee', cursive;
+  font-size: 40px;
+}
+
+
+.rest {
+  background-color: #E9F5F9;
+}
+
+.middle-container {
+  padding: 30px;
+  margin: 0 20px 0 20px;
+  background-color: #FEDAB8;
+}
+
+.bottom-container {
+  padding: 30px;
+  margin: 0 20px 20px 20px;
+  background-color: #FEDAB8;
+}
+
+.skill {
+  height: 200px;
+  width: 200px;
+}
+
+#skill-table {
+  font-family: 'Special Elite', cursive;
+  font-size: 30px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.skill {
+  width: 18%;
+}
